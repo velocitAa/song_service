@@ -76,10 +76,4 @@ Happy coding! 🤖🌟
 Спасибо за ознакомление с нашей системой рекомендаций GitHub. Мы надеемся, что вы найдете ее полезной и насладитесь открытием новых
 репозиториев, которые вдохновят ваше программирование! 🚀 
 
-
-### In additional you can see part of classification with Visual Transformers and mood classification:
-https://colab.research.google.com/drive/1KrtH_Xv_e4e3wy_DRi0LIvNuDblPla38 (classification with Visual Transformers)
-https://colab.research.google.com/drive/1pq3D2kXExSLZtFpCZCpCWdOaNm_4g45o#scrollTo=r_NrpQYDKalJ (mood classification)
-
-
 Счастливого кодинга! 🤖🌟
